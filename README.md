@@ -1,2 +1,2 @@
 # intro-to-programming
-University coding assignments
+University intro to programming coding assignments
